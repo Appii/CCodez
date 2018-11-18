@@ -1,2 +1,2 @@
 # CCodez
-C/C++ fun
+Learning C/C++ fun
